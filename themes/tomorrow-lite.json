@@ -192,17 +192,17 @@
 					"function": {
 						"color": "#de935f",
 						"font_style": null,
-						"font_weight": null
+						"font_weight": 600
 					},
 					"method": {
 						"color": "#de935f",
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"property": {
 						"color": null,
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"lifetime": {
 						"color": "#81a2be",
