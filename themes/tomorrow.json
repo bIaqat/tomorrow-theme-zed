@@ -360,7 +360,7 @@
 					"keyword": {
 						"color": "#b294bb",
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"number": {
 						"color": "#de935f",
@@ -380,12 +380,12 @@
 					"constant.builtin": {
 						"color": "#de935f",
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"type": {
 						"color": "#de935f",
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"string": {
 						"color": "#b5bd68",
@@ -395,7 +395,7 @@
 					"function": {
 						"color": "#85b7b1",
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"method": {
 						"color": "#85b7b1",
@@ -405,7 +405,7 @@
 					"property": {
 						"color": null,
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"lifetime": {
 						"color": "#81a2be",
@@ -416,7 +416,7 @@
 			}
 		},
 		{
-			"name": "Tomorrow Night Out Test",
+			"name": "Tomorrow Night Out",
 			"appearance": "dark",
 			"style": {
 				"border": "#2B2B2B",
@@ -569,7 +569,7 @@
 					"keyword": {
 						"color": "#d7acd7",
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"boolean": {
 						"color": "#f4a369",
@@ -589,12 +589,12 @@
 					"constant.builtin": {
 						"color": "#f4a369",
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"type": {
 						"color": "#f4a369",
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"string": {
 						"color": "#a8d3aa",
@@ -604,7 +604,7 @@
 					"function": {
 						"color": "#76d4d6",
 						"font_style": null,
-						"font_weight": 600
+						"font_weight": null
 					},
 					"method": {
 						"color": null,
@@ -697,6 +697,7 @@
 				"terminal.ansi.yellow": "#ffeead",
 				"terminal.ansi.bright_yellow": "#ffe580",
 				"terminal.ansi.dim_yellow": null,
+				// "terminal.ansi.blue": "#bbdaff",
 				"terminal.ansi.blue": "#80baff",
 				"terminal.ansi.bright_blue": "#80baff",
 				"terminal.ansi.dim_blue": null,
