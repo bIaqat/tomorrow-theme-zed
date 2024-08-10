@@ -4,7 +4,7 @@
 	"author": "blaqat",
 	"themes": [
 		{
-			"name": "Tomorrow Night Lite",
+			"name": "Tomorrow Night Min",
 			"appearance": "dark",
 			"style": {
 				"border": "#17181A",
@@ -181,7 +181,7 @@
 					},
 					"type": {
 						"color": null,
-						"font_style": "italic",
+						"font_style": null,
 						"font_weight": 600
 					},
 					"string": {
@@ -213,7 +213,7 @@
 			}
 		},
 		{
-			"name": "Tomorrow Night Blue Lite",
+			"name": "Tomorrow Night Blue Min",
 			"appearance": "dark",
 			"style": {
 				"border": "#001733",
@@ -450,7 +450,7 @@
 					},
 					"type": {
 						"color": null,
-						"font_style": "italic",
+						"font_style": null,
 						"font_weight": null
 					},
 					"function": {
