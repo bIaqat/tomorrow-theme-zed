@@ -1,5 +1,5 @@
 # Tomorrow
-`variants: [at Midnight, Night Blue, Day, Night Out, Night]`
+`variants: [at Midnight, Night Blue, Day, Night Out, Night, Night Min, Night Blue Min]`
 
 based on chriskempson's ["Tomorrow Theme"](<https://github.com/chriskempson/tomorrow-theme?tab=readme-ov-file>)  as well as some port/forks: (VSCode's "[Tomorrow Night Blue](<https://arc.net/l/quote/nbuipqzx>)", [mdBook](<https://rust-lang.github.io/mdBook/for_developers/preprocessors.html>)'s "Coal", and [rusty.nvim](<https://github.com/namrabtw/rusty.nvim?tab=readme-ov-file>))
 
@@ -18,6 +18,12 @@ based on chriskempson's ["Tomorrow Theme"](<https://github.com/chriskempson/tomo
 
 ### Tomorrow at Midnight
 <img src="assets/tomorrow-at-midnight.png" width="670">
+
+### Tomorrow Night Minimal
+<img src="assets/tomorrow-night-min.png" width="670">
+
+### Tomorrow Night Blue Minimal
+<img src="assets/tomorrow-night-blue-min.png" width="670">
 
 ## Installation
 1. Copy tomorrow.json to ~/.config/zed/themes/
