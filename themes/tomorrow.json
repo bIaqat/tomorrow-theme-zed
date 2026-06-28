@@ -163,7 +163,7 @@
 						"font_weight": null
 					},
 					"property": {
-						"color": null,
+						"color": "#C5C8C6",
 						"font_style": null,
 						"font_weight": null
 					},
@@ -189,6 +189,36 @@
 					},
 					"type": {
 						"color": "#DE935F",
+						"font_style": null,
+						"font_weight": null
+					},
+					"variable": {
+						"color": "#C5C8C6",
+						"font_style": null,
+						"font_weight": null
+					},
+					"operator": {
+						"color": "#C5C8C6",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation": {
+						"color": "#C5C8C6",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.bracket": {
+						"color": "#C5C8C6",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.delimiter": {
+						"color": "#C5C8C6",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.special": {
+						"color": "#C5C8C6",
 						"font_style": null,
 						"font_weight": null
 					}
@@ -427,6 +457,41 @@
 						"color": "#F39929",
 						"font_style": null,
 						"font_weight": 600
+					},
+					"property": {
+						"color": "#60605F",
+						"font_style": null,
+						"font_weight": null
+					},
+					"variable": {
+						"color": "#60605F",
+						"font_style": null,
+						"font_weight": null
+					},
+					"operator": {
+						"color": "#60605F",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation": {
+						"color": "#60605F",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.bracket": {
+						"color": "#60605F",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.delimiter": {
+						"color": "#60605F",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.special": {
+						"color": "#60605F",
+						"font_style": null,
+						"font_weight": null
 					}
 				},
 				"tab.active_background": "#FAFAFA",
@@ -655,6 +720,41 @@
 					},
 					"type": {
 						"color": "#F4A369",
+						"font_style": null,
+						"font_weight": null
+					},
+					"property": {
+						"color": "#D5D5D5",
+						"font_style": null,
+						"font_weight": null
+					},
+					"variable": {
+						"color": "#D5D5D5",
+						"font_style": null,
+						"font_weight": null
+					},
+					"operator": {
+						"color": "#D5D5D5",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation": {
+						"color": "#D5D5D5",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.bracket": {
+						"color": "#D5D5D5",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.delimiter": {
+						"color": "#D5D5D5",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.special": {
+						"color": "#D5D5D5",
 						"font_style": null,
 						"font_weight": null
 					}
@@ -898,6 +998,41 @@
 						"color": "#BBDAFF",
 						"font_style": null,
 						"font_weight": null
+					},
+					"property": {
+						"color": "#FFF",
+						"font_style": null,
+						"font_weight": null
+					},
+					"variable": {
+						"color": "#FFF",
+						"font_style": null,
+						"font_weight": null
+					},
+					"operator": {
+						"color": "#FFF",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation": {
+						"color": "#FFF",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.bracket": {
+						"color": "#FFF",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.delimiter": {
+						"color": "#FFF",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.special": {
+						"color": "#FFF",
+						"font_style": null,
+						"font_weight": null
 					}
 				},
 				"tab.active_background": "#002451",
@@ -1133,6 +1268,41 @@
 						"color": "#ED9E56",
 						"font_style": null,
 						"font_weight": 600
+					},
+					"property": {
+						"color": "#EEE",
+						"font_style": null,
+						"font_weight": null
+					},
+					"variable": {
+						"color": "#EEE",
+						"font_style": null,
+						"font_weight": null
+					},
+					"operator": {
+						"color": "#EEE",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation": {
+						"color": "#EEE",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.bracket": {
+						"color": "#EEE",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.delimiter": {
+						"color": "#EEE",
+						"font_style": null,
+						"font_weight": null
+					},
+					"punctuation.special": {
+						"color": "#EEE",
+						"font_style": null,
+						"font_weight": null
 					}
 				},
 				"tab.active_background": "#000",
